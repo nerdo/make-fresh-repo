@@ -1,0 +1,25 @@
+{
+  "name": "make-fresh-repo",
+  "version": "1.0.0-alpha.0",
+  "description": "Makes a fresh copy of the current repository.",
+  "main": "make-fresh-repo.js",
+  "engines": {
+    "node" : ">=10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdo/make-fresh-repo.git"
+  },
+  "author": "Dannel Albert <cuebix@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerdo/make-fresh-repo/issues"
+  },
+  "homepage": "https://github.com/nerdo/make-fresh-repo#readme",
+  "bin": {
+    "make-fresh-repo": "./make-fresh-repo.js"
+  }
+}
